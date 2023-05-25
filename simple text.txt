@@ -1,0 +1,7 @@
+git init
+git add README.md
+git add --add
+git commit -m "fist commit"
+git branch -M main
+git remote add origin "https://www.git/RadhikaRKatkade/WAD.git"
+git push -u origin main
